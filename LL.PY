@@ -1,0 +1,5 @@
+#WPA NEW PROGRAM AIRTH
+5+2
+5-2
+5/2
+5*2
